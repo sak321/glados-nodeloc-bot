@@ -1,0 +1,12 @@
+name = "glados-nodeloc-bot"
+main = "worker.js"
+compatibility_date = "2026-04-30"
+workers_dev = true
+
+[vars]
+ENV_ADMIN_ID = "5838341848"
+ENV_BOT_TOKEN = "8550430256:AAFiYJVrax1jDvDUm5L9NZ4gPrs4-_lPhhY"
+
+[[kv_namespaces]]
+binding = "GLADOS_DB"
+id = "a78299f0290f44679f01377ebb449b37"
