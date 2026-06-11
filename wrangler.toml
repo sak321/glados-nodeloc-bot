@@ -5,7 +5,7 @@ workers_dev = true
 
 [vars]
 ENV_ADMIN_ID = "5838341848"
-ENV_BOT_TOKEN = "8550430256:AAFiYJVrax1jDvDUm5L9NZ4gPrs4-_lPhhY"
+ENV_BOT_TOKEN = "8676288881:AAHJFWW_LBD5jJMrCCSBeh4vQl8Vyv_KNpI"
 
 [[kv_namespaces]]
 binding = "GLADOS_DB"
